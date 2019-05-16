@@ -1,3 +1,12 @@
-# Portfolio
-This is my personal website project available at www.przemekmisztela.pl
-I made it with html,css, bootstrap and php (contact form). If you have any clues or found bugs, please report it to my e-mail: contact@przemekmisztela.pl
+# Personal website
+This is my personal website project available at www.przemekmisztela.pl 
+
+## Technologies
+
+* HTML5
+* CSS3
+* Bootstrap 4
+* PHP (contact form)
+
+## Contact
+ If you want to give me some clues or found a bug and want to report it, please write to me: contact@przemekmisztela.pl
